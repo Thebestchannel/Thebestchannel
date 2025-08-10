@@ -1,4 +1,4 @@
-The website is available at https://thebestchannel.github.io/
+The website is available at https://thebestchannel.github.io/Thebestchannel
 
 <!--
 **Thebestchannel/Thebestchannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
